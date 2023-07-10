@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Grupo 5 - Delfos
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Pipeline de dados da [Finatec](https://www.finatec.org.br/) para prestação de contas
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Cliente: Luíza <br>
+Reunião: Quinta-Feira (12h30-16h30)<br>
+Monitoria: Quinta 14h
