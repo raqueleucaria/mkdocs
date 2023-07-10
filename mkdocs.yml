@@ -3,7 +3,7 @@ site_name: Pipeline Finatec
 repo_name: 'mkdocs'
 repo_url: https://github.com/raqueleucaria/mkdocs/
 site_url: https://raqueleucaria.github.io/mkdocs/
-edit_uri: edit/main/page/docs/
+edit_uri: edit/main/docs/
 
 theme:
   name: material
